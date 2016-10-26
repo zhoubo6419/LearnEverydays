@@ -17,6 +17,6 @@ s.authors = { 'zhoubo6419' => '1436640281@qq.com' }
 s.source = { :git => "https://github.com/zhoubo6419/LearnEverydays.git", :tag => "1.0.0"}
 s.requires_arc = true
 s.ios.deployment_target = '7.0'
-s.source_files = "DFTextStyle", "*.{h,m}"
+s.source_files = "LearnEverydays", "*.{h,m}"
 
 end
